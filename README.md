@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-- [Packet Sniffer](https://github.com/ptabat425)
+- [Packet Sniffer](https://github.com/ptabat425/PacketSniffer)
 
 
 <h2> 🤳 Connect with me:</h2>
